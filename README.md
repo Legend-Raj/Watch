@@ -46,7 +46,7 @@ To run this project locally, follow these steps:
 
 - **Dark Mode**:
 
-  ![Dark Mode]((https://github.com/user-attachments/assets/0e9fc3f2-cd3c-4d9b-867d-5e0147224ccc)
+  ![Dark Mode](https://github.com/user-attachments/assets/0e9fc3f2-cd3c-4d9b-867d-5e0147224ccc)
 
 ## 🤝 Contributing
 
